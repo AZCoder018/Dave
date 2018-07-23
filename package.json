@@ -45,7 +45,7 @@
     "react-router-dom": "^4.3.1",
     "sass-loader": "^6.0.7",
     "video-react": "^0.13.0",
-    "webpack": "^4.2.0",
+    "webpack": "^4.16.1",
     "webpack-cli": "^2.0.13",
     "webpack-dev-middleware": "^3.0.1",
     "webpack-hot-middleware": "^2.21.2",
